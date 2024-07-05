@@ -5,4 +5,4 @@ The data type of the topic is Float32.
 The node publisher will push new data every 0.003 seconds.
 
 # How to connect the Pi5 to the sensor HC-SR04 ?
-< a href="https://docs.sunfounder.com/projects/umsk/en/latest/_images/Lesson_23_ultrasonic_sensor_Pi_bb.png">
+![connetctions_ HC-SR04_to_Pi5](how_to_connect_HC-SR04_to_Pi5.png)
