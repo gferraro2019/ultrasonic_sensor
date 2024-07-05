@@ -1,6 +1,6 @@
 import rclpy
 from rclpy.node import Node
-from std_msgs.msg import String
+from std_msgs.msg import Float32
 
 
 class MySubscriber(Node):
@@ -8,12 +8,12 @@ class MySubscriber(Node):
     def __init__(self):
         super().__init__("my_subscriber")
         self.subscription = self.create_subscription(
-            String, "chatter", self.listener_callback, 10
+            Float32, "chatter", self.listener_callback, 10
         )
         self.subscription  # prevent unused variable warning
 
     def listener_callback(self, msg):
-        self.get_logger().info('I heard: "%s"' % msg.data)
+        self.get_logger().info('I heard: "%f"' % msg.data)
 
 
 def main(args=None):
