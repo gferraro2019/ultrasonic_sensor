@@ -1,0 +1,3 @@
+[console_scripts]
+my_nodepub = ultrasonic_sensor.my_nodepub:main
+my_nodesub = ultrasonic_sensor.my_nodesub:main

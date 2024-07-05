@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dcas/g.ferraro/colcon_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/dcas/g.ferraro/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/dcas/g.ferraro/Descktop/CARLA/CARLA_0.9.14/PythonAPI",
+        "/home/dcas/g.ferraro/Descktop/CARLA/CARLA_0.9.14/PythonAPI/carla",
+        "/home/dcas/g.ferraro/Desktop/CARLA/CARLA_0.9.14/PythonAPI/carla/dist/carla-0.9.14-py3.7-linux-x86_64.egg"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dcas/g.ferraro/colcon_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/dcas/g.ferraro/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/dcas/g.ferraro/Descktop/CARLA/CARLA_0.9.14/PythonAPI",
+        "/home/dcas/g.ferraro/Descktop/CARLA/CARLA_0.9.14/PythonAPI/carla",
+        "/home/dcas/g.ferraro/Desktop/CARLA/CARLA_0.9.14/PythonAPI/carla/dist/carla-0.9.14-py3.7-linux-x86_64.egg"
+    ]
+}

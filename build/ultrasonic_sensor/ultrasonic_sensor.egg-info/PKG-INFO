@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ultrasonic-sensor
+Version: 0.0.0
+Summary: This package streams the data produced by an ultrasonic device.
+Maintainer: g.ferraro
+Maintainer-email: giuseppe.ferraro@isae-supaero.fr
+License: TODO: License declaration

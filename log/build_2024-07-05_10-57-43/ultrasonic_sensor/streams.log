@@ -1,0 +1,43 @@
+[2.758s] Invoking command in '/home/pi/ros2_humble/src/ultrasonic_sensor': PYTHONPATH=/home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/prefix_override:/home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ultrasonic_sensor build --build-base /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build install --record /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/install.log --single-version-externally-managed
+[3.689s] running egg_info
+[3.689s] creating build/ultrasonic_sensor/ultrasonic_sensor.egg-info
+[3.721s] writing build/ultrasonic_sensor/ultrasonic_sensor.egg-info/PKG-INFO
+[3.722s] writing dependency_links to build/ultrasonic_sensor/ultrasonic_sensor.egg-info/dependency_links.txt
+[3.722s] writing entry points to build/ultrasonic_sensor/ultrasonic_sensor.egg-info/entry_points.txt
+[3.722s] writing requirements to build/ultrasonic_sensor/ultrasonic_sensor.egg-info/requires.txt
+[3.722s] writing top-level names to build/ultrasonic_sensor/ultrasonic_sensor.egg-info/top_level.txt
+[3.722s] writing manifest file 'build/ultrasonic_sensor/ultrasonic_sensor.egg-info/SOURCES.txt'
+[3.792s] reading manifest file 'build/ultrasonic_sensor/ultrasonic_sensor.egg-info/SOURCES.txt'
+[3.793s] writing manifest file 'build/ultrasonic_sensor/ultrasonic_sensor.egg-info/SOURCES.txt'
+[3.794s] running build
+[3.794s] running build_py
+[3.794s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build
+[3.794s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib
+[3.794s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor
+[3.795s] copying ultrasonic_sensor/my_nodepub.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor
+[3.795s] copying ultrasonic_sensor/__init__.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor
+[3.796s] copying ultrasonic_sensor/my_nodesub.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor
+[3.796s] running install
+[3.796s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.796s]   warnings.warn(
+[3.807s] running install_lib
+[3.842s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor
+[3.843s] copying /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor/my_nodepub.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor
+[3.843s] copying /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor/__init__.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor
+[3.843s] copying /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build/lib/ultrasonic_sensor/my_nodesub.py -> /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor
+[3.844s] byte-compiling /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor/my_nodepub.py to my_nodepub.cpython-311.pyc
+[3.845s] byte-compiling /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor/__init__.py to __init__.cpython-311.pyc
+[3.847s] byte-compiling /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor/my_nodesub.py to my_nodesub.cpython-311.pyc
+[3.847s] running install_data
+[3.940s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/share/ament_index
+[3.940s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/share/ament_index/resource_index
+[3.940s] creating /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/share/ament_index/resource_index/packages
+[3.940s] copying resource/ultrasonic_sensor -> /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/share/ament_index/resource_index/packages
+[3.940s] copying package.xml -> /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/share/ultrasonic_sensor
+[3.940s] running install_egg_info
+[3.976s] Copying build/ultrasonic_sensor/ultrasonic_sensor.egg-info to /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages/ultrasonic_sensor-0.0.0-py3.11.egg-info
+[3.977s] running install_scripts
+[4.114s] Installing my_nodepub script to /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/ultrasonic_sensor
+[4.114s] Installing my_nodesub script to /home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/ultrasonic_sensor
+[4.114s] writing list of installed files to '/home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/install.log'
+[4.277s] Invoked command in '/home/pi/ros2_humble/src/ultrasonic_sensor' returned '0': PYTHONPATH=/home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/prefix_override:/home/pi/ros2_humble/src/ultrasonic_sensor/install/ultrasonic_sensor/lib/python3.11/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ultrasonic_sensor build --build-base /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/build install --record /home/pi/ros2_humble/src/ultrasonic_sensor/build/ultrasonic_sensor/install.log --single-version-externally-managed
